@@ -42,8 +42,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "favExercises",
-            "favExercises.json"
+            "ABFavExercises",
+            "ABFavExercises.json"
           ]
         },
         {
