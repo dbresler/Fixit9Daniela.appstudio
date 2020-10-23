@@ -28,8 +28,8 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "btnFavExercise",
-  "left": 158,
+  "id": "btnMobileNav",
+  "left": 117,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 297,
-  "value": "Your Execrise",
-  "width": 156
+  "top": 354,
+  "value": "Mobile Navigation",
+  "width": 193
 }

@@ -14,7 +14,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "ABFavExercises",
+        "FavExercises",
         "Elements",
         "selExercises.json"
       ]
@@ -23,16 +23,16 @@
       "!type": "External",
       "file": [
         "forms",
-        "ABFavExercises",
+        "FavExercises",
         "Elements",
-        "btnFavExercise.json"
+        "btnMobileNav.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "ABFavExercises",
+        "FavExercises",
         "Elements",
         "btnSubmit3.json"
       ]
@@ -41,9 +41,9 @@
       "!type": "External",
       "file": [
         "forms",
-        "ABFavExercises",
+        "FavExercises",
         "Elements",
-        "btnNextPage5.json"
+        "lblExercise.json"
       ]
     }
   ],
@@ -53,7 +53,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "ABFavExercises",
+  "id": "FavExercises",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -61,7 +61,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "ABFavExercises.onshow()",
+  "onshow": "FavExercises.onshow()",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",

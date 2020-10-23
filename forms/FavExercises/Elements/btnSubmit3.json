@@ -29,13 +29,13 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnSubmit3",
-  "left": 161,
+  "left": 210,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
   "mRight": "",
   "mTop": "",
-  "onclick": "btnSubmit3.onclick()",
+  "onclick": "btnMobileNav.onclick()",
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 342,
-  "value": "Fav Excerise ",
-  "width": 157
+  "top": 402,
+  "value": "Submit ",
+  "width": "auto"
 }

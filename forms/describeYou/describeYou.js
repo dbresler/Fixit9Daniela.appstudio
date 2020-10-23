@@ -4,6 +4,6 @@ rdbPerson.onclick=function(){
 }
 
 btnSubmit2.onclick=function(){
-  ChangeForm(ABFavExercises)
+  ChangeForm(FavExercises)
 }
 
